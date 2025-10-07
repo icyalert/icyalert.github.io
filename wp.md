@@ -7,5 +7,5 @@ permalink: /wp
 The diagram below illustrates the workflow of the project with the different work packages (WPs):
 
 <p align="center">
-  <img src="http://some_place.com/image.png" />
+  <img src="/images/Figure7_IcyAlert_FlowChart.png" height="30%" width="30%">
 </p>
