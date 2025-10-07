@@ -13,7 +13,7 @@ The project goal is to improve predictions of Arctic ice-free summers and its po
 
 IcyAlert is led by the Danish Meteorological Institute ([DMI](http://research.dmi.dk/home/)), in partnership with the Royal Meteorological Institute of Belgium ([RMI](https://climdyn.meteo.be/)) and the Technical University of Denmark ([DTU](https://www.dtu.dk/english/research)).
 
-<img src="/images/NNF_logo.png" height="30%" width="30%">   
+<img src="/images/NNF_logo.png" height="20%" width="20%">   
 
 <img src="/images/dmi_eng.png" height="40%" width="40%">   
 
