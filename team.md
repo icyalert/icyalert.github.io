@@ -6,7 +6,7 @@ permalink: /team
 
 <img src="images/dmi_eng.png" height="40%" width="40%">
 
-Coordinator and PI: [Tian Tian](http://research.dmi.dk/staff/all-staff/tian/) / Sea ice - ocean - atmosphere coupling, CMIP6 model evaluation
+Coordinator and PI: [Tian Tian](http://research.dmi.dk/staff/all-staff/tian/) / Decadal climate predictions, Sea ice modeling and observations, CMIP6 model evaluation
 
 Project manager: Kristine S. Madsen
 
@@ -14,7 +14,7 @@ Project manager: Kristine S. Madsen
 
 <img src="/images/logo_rmicolor.png" height="5%" width="5%"> Royal Meteorological Institute of Belgium
 
-PI: [Stéphane Vannitsem](https://climdyn.meteo.be/team/stephane-vannitsem) / Causal analysis, nonlinear dynamics, variability of climate and weather
+PI: [Stéphane Vannitsem](https://climdyn.meteo.be/team/stephane-vannitsem) / Causal methods, nonlinear dynamics, variability and predictability of climate
 
 Postdoc researcher: [David Docquier](https://climdyn.meteo.be/team/david-docquier) / Causal analysis applied to sea ice - ocean - atmosphere interactions
 
@@ -22,4 +22,8 @@ Postdoc researcher: [David Docquier](https://climdyn.meteo.be/team/david-docquie
 
 <img src="/images/DTU_Logo.png" height="5%" width="5%"> Technical University of Denmark
 
-PI: [Tommy S. Alstrøm](https://www.dtu.dk/english/person/tommy-sonne-alstroem?id=21803&entity=profile) / Machine learning for signal processing
+PI: [Tommy S. Alstrøm](https://www.dtu.dk/english/person/tommy-sonne-alstroem?id=21803&entity=profile) / Machine learning, High-performance computing
+
+&ensp;
+
+<img src="/images/IcyAlert_Partners.png" height="5%" width="5%">
