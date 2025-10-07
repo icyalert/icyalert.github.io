@@ -26,4 +26,6 @@ PI: [Tommy S. Alstrøm](https://www.dtu.dk/english/person/tommy-sonne-alstroem?i
 
 &ensp;
 
-<img src="/images/IcyAlert_Partners.png" height="5%" width="5%">
+The diagram below displays the 3 key objectives of IcyAlert (O1-O3) as well as the main expertise of each partner contributing to the project:
+
+<img src="/images/IcyAlert_Partners.png" height="20%" width="20%">
