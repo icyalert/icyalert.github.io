@@ -8,6 +8,8 @@ permalink: /team
 
 PI: [Tian Tian](http://research.dmi.dk/staff/all-staff/tian/)
 
+Project manager: Kristine S. Madsen
+
 &ensp;
 
 <img src="/images/logo_rmicolor.png" height="5%" width="5%"> Royal Meteorological Institute of Belgium
