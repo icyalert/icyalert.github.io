@@ -4,10 +4,4 @@ title: "Research"
 permalink: /research
 ---
 
-Why is it important?
-
-Goal of the project
-
-Methods
-
-Expected results
+This page will provide details about the scientific context of the project, why it is important, its objectives, the methodology and the expected results.
