@@ -13,7 +13,7 @@ IcyAlert is a climate project running from October 2025 to September 2031 and fu
 
 &ensp;
 
-The project goal is to **improve predictions of Arctic ice-free summers and its potential climate impacts at multi-decadal time scale using global climate models, causal analysis and machine learning**.
+The project goal is to improve predictions of **Arctic ice-free summers** and its potential **climate impacts** at multi-decadal time scale using **global climate models**, **causal analysis** and **machine learning**.
 
 &ensp;
 
