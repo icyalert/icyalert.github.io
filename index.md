@@ -7,7 +7,7 @@ title: "About"
 permalink: /
 ---
 
-IcyAlert is a climate project running from October 2025 to September 2031 and funded by the Novo Nordisk Fundation ([NNF](https://novonordiskfonden.dk/en/news/challenge-accepted-new-funding-for-ambitious-projects-within-biomanufacturing-cardiometabolic-diseases-and-artificial-intelligence/)).
+**IcyAlert** is a climate project running from October 2025 to September 2031 and funded by the Novo Nordisk Fundation ([NNF](https://novonordiskfonden.dk/en/news/challenge-accepted-new-funding-for-ambitious-projects-within-biomanufacturing-cardiometabolic-diseases-and-artificial-intelligence/)).
 
 <img src="/images/NNF_logo.png" height="20%" width="20%">   
 
