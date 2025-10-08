@@ -2,6 +2,7 @@
 layout: page
 title: "Work packages"
 permalink: /wp
+nav_order: 5
 ---
 
 The diagram below illustrates the workflow of the project with the different work packages (WPs):
