@@ -5,7 +5,7 @@
 layout: page
 title: "IcyAlert"
 permalink: /
-order: 1
+nav_order: 1
 ---
 
 **IcyAlert** stands for _Intelligent Climate Early Warning Alert for Arctic Ice-Free Summers_. It is a research project running from October 2025 to September 2031, which is funded by the Novo Nordisk Fundation ([NNF](https://novonordiskfonden.dk/en/news/challenge-accepted-new-funding-for-ambitious-projects-within-biomanufacturing-cardiometabolic-diseases-and-artificial-intelligence/)).
