@@ -2,7 +2,7 @@
 layout: page
 title: "Papers"
 permalink: /papers
-order: 2
+nav_order: 6
 ---
 
 To come...
