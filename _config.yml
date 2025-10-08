@@ -34,7 +34,6 @@ plugins:
 
 # Order pages
 header_pages:
- - index.md
  - news.md
  - team.md
  - research.md
