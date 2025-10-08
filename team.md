@@ -6,7 +6,7 @@ permalink: /team
 
 <img src="images/dmi_eng.png" height="40%" width="40%">
 
-Coordinator and PI: [Tian Tian](http://research.dmi.dk/staff/all-staff/tian/) / Decadal climate predictions, Sea ice modeling and observations, CMIP6 model evaluation
+Project leader and PI: [Tian Tian](http://research.dmi.dk/staff/all-staff/tian/) / Decadal climate predictions, Sea ice modeling and observations, CMIP6 model evaluation
 
 Project manager: Kristine S. Madsen
 
