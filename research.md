@@ -4,12 +4,12 @@ title: "Research"
 permalink: /research
 ---
 
-[1. Context](/context)
+[1. Context](/research/context)
 
-[2. IcyAlert](/icyalert)
+[2. IcyAlert](/research/icyalert)
 
-[3. Objectives](/objectives)
+[3. Objectives](/research/objectives)
 
-[4. Methods](/methods)
+[4. Methods](/research/methods)
 
-[5. Expected outcome](/expectations)
+[5. Expected outcome](/research/expectations)
