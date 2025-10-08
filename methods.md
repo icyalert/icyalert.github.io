@@ -19,4 +19,4 @@ advanced probabilistic techniques such as Graph Neural Networks (e.g. [GraphCast
 
 ## Gefion
 
-IcyAlert will use the Gefion supercomputer to perform its computations.
+IcyAlert will use the [Gefion supercomputer](https://novonordiskfonden.dk/en/news/denmarks-first-ai-supercomputer-is-now-operational/) to perform its computations.
