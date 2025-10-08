@@ -12,3 +12,14 @@ The diagram below illustrates the workflow of the project with the different wor
 
 ## WP1: Climate data retrieval & event detection
 
+## WP2: Prototype AI for multi-driver detection and evaluation
+
+## WP3: AI-enhanced ensemble initialization and dynamic prediction
+
+## WP4: AI-driven future ice-free Arctic detection and prediction
+
+## WP5: AI-driven future regional climate impacts
+
+## WP6: Synthesis & risk assessment
+
+## WP7: Management and research training
