@@ -6,10 +6,8 @@ permalink: /research
 
 [1. Context](/research/context)
 
-[2. IcyAlert](/research/icyalert)
+[2. Objectives](/research/objectives)
 
-[3. Objectives](/research/objectives)
+[3. Methods](/research/methods)
 
-[4. Methods](/research/methods)
-
-[5. Expected outcome](/research/expectations)
+[4. Expected outcome](/research/expectations)
