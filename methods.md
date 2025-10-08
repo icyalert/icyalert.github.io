@@ -15,7 +15,7 @@ IcyAlert will use the [Liang-Kleeman information flow (LKIF)](https://doi.org/10
 ## AI-powered climate emulators
 
 IcyAlert will develop a probabilistic ice-free Arctic predictor that maps inputs from integrated preconditions and drivers to outputs of summer sea-ice metrics and climate impact indices. Using
-advanced probabilistic techniques such as Graph Neural Networks (GNNs) and diffusion models, the model will generate risk-informed predictions of ice-free conditions. This will form a prototype ice-free emulator, simulating ice-free scenarios under varying initial conditions and providing probabilistic outputs for decision-making and scenario analysis.
+advanced probabilistic techniques such as Graph Neural Networks (e.g. [GraphCast](https://doi.org/10.1126/science.adi2336)) and diffusion models (e.g. [GenCast](https://doi.org/10.1038/s41586-024-08252-9)), the model will generate risk-informed predictions of ice-free conditions. This will form a prototype ice-free emulator, simulating ice-free scenarios under varying initial conditions and providing probabilistic outputs for decision-making and scenario analysis.
 
 ## Gefion
 
