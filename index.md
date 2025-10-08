@@ -5,7 +5,6 @@
 layout: page
 title: "IcyAlert"
 permalink: /
-nav_order: 1
 ---
 
 Test
