@@ -9,3 +9,6 @@ The diagram below illustrates the workflow of the project with the different wor
 <p align="center">
   <img src="/images/Figure7_IcyAlert_FlowChart.png" height="100%" width="100%">
 </p>
+
+## WP1: Climate data retrieval & event detection
+
