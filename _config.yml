@@ -32,6 +32,16 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Order pages
+header_pages:
+ - index.md
+ - news.md
+ - team.md
+ - research.md
+ - wp.md
+ - papers.md
+ - outreach.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
