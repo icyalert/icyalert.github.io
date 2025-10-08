@@ -2,6 +2,7 @@
 layout: page
 title: "Team"
 permalink: /team
+nav_order: 3
 ---
 
 <img src="images/dmi_eng.png" height="40%" width="40%">
