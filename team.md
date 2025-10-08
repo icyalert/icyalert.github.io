@@ -26,7 +26,7 @@ permalink: /team
 
 &ensp;
 
-The diagram below displays the 3 key objectives of IcyAlert (O1-O3) as well as the main expertise of each partner contributing to the project:
+The diagram below displays the main expertise of each partner contributing to the project as well as the 3 key objectives of IcyAlert (O1-O3):
 
 <p align="center">
   <img src="/images/IcyAlert_Partners.png" height="50%" width="50%">
