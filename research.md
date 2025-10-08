@@ -4,4 +4,12 @@ title: "Research"
 permalink: /research
 ---
 
-This page will provide details about the scientific context of the project, why it is important, its objectives, the methodology and the expected results.
+[**1. Context](/context)
+
+[**2. IcyAlert](/icyalert)
+
+[**3. Objectives](/objectives)
+
+[** 4. Methods](/methods)
+
+[** 5. Expected outcome](/expectations)
