@@ -2,7 +2,6 @@
 layout: page
 title: "News"
 permalink: /news
-nav_order: 2
 ---
 
 01/10/2025: We are starting the IcyAlert project for a total duration of 6 years. We will keep you updated about the project developments.
