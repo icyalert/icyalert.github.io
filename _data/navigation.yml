@@ -1,20 +1,20 @@
-- title: "IcyAlert"
-  url: /
+#- title: "IcyAlert"
+# url: /
 
 - title: "News"
-  url: /news/
+  url: /news
 
 - title: "Team"
-  url: /team/
+  url: /team
   
 - title: "Outreach"
-  url: /outreach/
+  url: /outreach
 
 - title: "Papers"
-  url: /papers/
+  url: /papers
 
 - title: "Research"
-  url: /research/
+  url: /research
 
 - title: "Work packages"
-  url: /wp/
+  url: /wp
