@@ -10,6 +10,10 @@ The diagram below illustrates the workflow of the project with the different wor
   <img src="/images/Figure7_IcyAlert_FlowChart.png" height="100%" width="100%">
 </p>
 
+&ensp;
+
+Here are the 6 scientific WPs and 1 management WP:
+
 **WP1**: Climate data retrieval & event detection
 
 **WP2**: Prototype AI for multi-driver detection and evaluation
