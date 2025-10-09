@@ -12,6 +12,8 @@ While the Intergovernmental Panel on Climate Change (IPCC) projects a summer ice
 
 In IcyAlert, we propose to address these uncertainties and to refine predictions of ice-free Arctic summers based on global climate models and satellite observations combined with causal analysis and explainable artificial intelligence (AI). This approach will not only improve the prediction accuracy of ice-free Arctic summers but will also provide deeper insights into the drivers of Arctic sea-ice variability, enabling more reliable early warning systems for regional climate impacts.
 
+&ensp;
+
 ## 2. Objectives
 
 In IcyAlert, we propose to develop an **early warning system** for summer ice-free Arctic predictions (sea-ice area below 1 million km²) and its climate impacts. 
@@ -23,6 +25,8 @@ The three key project objectives of IcyAlert are:
 **Objective 2**: Optimize IcyAlert with **AI-driven ensemble simulations** and **causal analysis** for prioritized key climate processes. We aim to refine predictions and uncover key Arctic sea-ice impacts.
 
 **Objective 3**: Apply IcyAlert to **CMIP7** data for downscaled year-round climate impact simulations and deliver **risk alerts** for the Arctic and extratropics. By leveraging a hierarchy of models, from AI/ML-enhanced predictions to downscaled impact models, we aim to use causal networks to enable localized risk assessments and actionable insights into abrupt climate changes and extreme events.
+
+&ensp;
 
 ## 3. Methods
 
