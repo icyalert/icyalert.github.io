@@ -6,4 +6,4 @@ permalink: /contact
 
 If you need to contact us, please send an email to our project manager:
 
-[Kristine S. Madsen](kma@dmi.dk)
+[Kristine S. Madsen](mailto:kma@dmi.dk)
