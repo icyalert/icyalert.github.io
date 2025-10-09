@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Objectives"
-permalink: /research/objectives
 ---
 
 In IcyAlert, we propose to develop an **early warning system** for summer ice-free Arctic predictions (sea-ice area below 1 million km²) and its climate impacts. 
