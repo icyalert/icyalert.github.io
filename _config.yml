@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: IcyAlert
-email:
+email: If you need to contact us, please send an email to Kristine S. Madsen, kma@dmi.dk
 description: >- # this means to ignore newlines until "baseurl:"
   Intelligent Climate Early Warning Alert for Arctic Ice-Free Summers, funded by the Novo Nordisk Foundation
 baseurl: "" # the subpath of your site, e.g. /blog
