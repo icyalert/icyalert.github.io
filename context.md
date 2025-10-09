@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Context"
-permalink: /research/context
 ---
 
 Arctic summer sea ice has been declining at an unprecedented rate, mainly caused by anthropogenic global warming ([IPCC, 2021](https://doi.org/10.1017/9781009157896.001)). The visible transition from ice-covered (high albedo) to ice-free (low albedo) ocean in summer amplifies solar heat absorption, intensifying surface warming ([Stroeve & Notz, 2018](https://doi.org/10.1088/1748-9326/aade56)). This positive feedback accelerates polar amplification, drives further sea ice loss, and triggers cascading impacts on the global climate ([Meier & Stroeve, 2022](https://doi.org/10.5670/oceanog.2022.114)). Since 1979, the Arctic has warmed nearly four times faster than the global average ([Rantanen et al., 2022](https://doi.org/10.1038/s43247-022-00498-3)).
