@@ -12,7 +12,7 @@ The diagram below illustrates the workflow of the project with the different wor
 
 &ensp;
 
-Here are the 6 scientific WPs and 1 management WP:
+IcyAlert includes 6 scientific WPs and 1 management WP:
 
 **WP1**: Climate data retrieval & event detection
 
