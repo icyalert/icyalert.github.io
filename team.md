@@ -10,6 +10,12 @@ permalink: /team
 
 **Kristine S. Madsen**: Project manager
 
+[**Shuting Yang**](http://research.dmi.dk/staff/all-staff/shuting/)
+
+[**Till S. Rasmussen**](http://research.dmi.dk/staff/all-staff/tar/)
+
+[**Jian Su**](http://research.dmi.dk/staff/all-staff/jis/)
+
 &ensp;
 
 <img src="/images/logo_rmicolor.png" height="5%" width="5%"> Royal Meteorological Institute of Belgium
