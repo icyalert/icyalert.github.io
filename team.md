@@ -8,7 +8,7 @@ permalink: /team
 
 [**Tian Tian**](http://research.dmi.dk/staff/all-staff/tian/): Project leader and PI / Decadal climate predictions, Sea ice modeling and observations, CMIP6 model evaluation
 
-**Kristine S. Madsen**: Project manager
+[**Kristine S. Madsen**](http://research.dmi.dk/staff/all-staff/kma/): Project manager
 
 [**Shuting Yang**](http://research.dmi.dk/staff/all-staff/shuting/)
 
