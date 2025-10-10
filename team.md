@@ -10,11 +10,11 @@ permalink: /team
 
 [**Kristine S. Madsen**](http://research.dmi.dk/staff/all-staff/kma/): Project manager
 
-[**Shuting Yang**](http://research.dmi.dk/staff/all-staff/shuting/)
+[**Shuting Yang**](http://research.dmi.dk/staff/all-staff/shuting/): contributes to WP1 and WP3-5 / Global climate system design using EC-Earth model
 
-[**Till S. Rasmussen**](http://research.dmi.dk/staff/all-staff/tar/)
+[**Till S. Rasmussen**](http://research.dmi.dk/staff/all-staff/tar/): contributes to WP6 / Arctic shipping risk use case design using sea-ice forecast models
 
-[**Jian Su**](http://research.dmi.dk/staff/all-staff/jis/)
+[**Jian Su**](http://research.dmi.dk/staff/all-staff/jis/): contributes to WP6 / Storm surge use case design using impact models
 
 &ensp;
 
