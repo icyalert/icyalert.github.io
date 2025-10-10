@@ -6,11 +6,7 @@ permalink: /collaborators
 
 ### Collaborators
 
-[**Kasper Stener Hintz**](https://research.dmi.dk/staff/all-staff/kah/), Danish Meteorological Institute (Denmark), AI models and climate data transfer
-
 [**Robert Jenssen**](https://en.uit.no/ansatte/person?p_document_id=41060), The Arctic University of Norway, Machine learning
-
-[**Shakir Mohammed**](https://shakirm.com/), DeepMind (UK), Machine learning
 
 [**X. San Liang**](https://aos.fudan.edu.cn/44/ae/c14809a410798/page.htm), Fudan University & Southern Marine Laboratory (China), Information flow and causal analysis
 
