@@ -16,8 +16,6 @@ permalink: /team
 
 [**Jian Su**](http://research.dmi.dk/staff/all-staff/jis/): contributes to WP6 / Flood risk assessment focused on the compound effects of storm surges using impact models
 
-{% [**Nishka Dasgupta**](https://research.dmi.dk/staff/all-staff/nid/): contributes to WP1 / Data management %}
-
 &ensp;
 
 <img src="/images/logo_rmicolor.png" height="5%" width="5%"> Royal Meteorological Institute of Belgium
