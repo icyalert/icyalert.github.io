@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Work packages"
+title: "WP"
 permalink: /wp
 ---
 
