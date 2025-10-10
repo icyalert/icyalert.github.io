@@ -6,9 +6,9 @@ permalink: /team
 
 <img src="images/dmi_eng.png" height="40%" width="40%">
 
-[**Tian Tian**](http://research.dmi.dk/staff/all-staff/tian/): Project leader and PI / Decadal climate predictions, Sea ice modeling and observations, CMIP6 model evaluation
+[**Tian Tian**](http://research.dmi.dk/staff/all-staff/tian/): Project leader and PI, leader of WP1 and WP6 / Decadal climate predictions, Sea ice modeling and observations, CMIP6 model evaluation
 
-[**Kristine S. Madsen**](http://research.dmi.dk/staff/all-staff/kma/): Project manager
+[**Kristine S. Madsen**](http://research.dmi.dk/staff/all-staff/kma/): Project manager (WP7)
 
 [**Shuting Yang**](http://research.dmi.dk/staff/all-staff/shuting/): contributes to WP1 and WP3-5 / Global climate system design using EC-Earth model (chair of EC-Earth consortium)
 
@@ -20,7 +20,7 @@ permalink: /team
 
 <img src="/images/logo_rmicolor.png" height="5%" width="5%"> Royal Meteorological Institute of Belgium
 
-[**Stéphane Vannitsem**](https://climdyn.meteo.be/team/stephane-vannitsem): PI / Causal methods, nonlinear dynamics, variability and predictability of climate
+[**Stéphane Vannitsem**](https://climdyn.meteo.be/team/stephane-vannitsem): PI, leader of WP2 and WP5 / Causal methods, nonlinear dynamics, variability and predictability of climate
 
 [**David Docquier**](https://climdyn.meteo.be/team/david-docquier): Postdoc researcher / Causal analysis applied to sea ice - ocean - atmosphere interactions
 
@@ -28,7 +28,7 @@ permalink: /team
 
 <img src="/images/DTU_Logo.png" height="5%" width="5%"> Technical University of Denmark
 
-[**Tommy S. Alstrøm**](https://www.dtu.dk/english/person/tommy-sonne-alstroem?id=21803&entity=profile): PI / Machine learning, High-performance computing
+[**Tommy S. Alstrøm**](https://www.dtu.dk/english/person/tommy-sonne-alstroem?id=21803&entity=profile): PI, leader of WP3 and WP4 / Machine learning, High-performance computing
 
 &ensp;
 
