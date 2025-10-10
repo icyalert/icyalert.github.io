@@ -11,5 +11,8 @@ permalink: /collaborators
 
 ### Advisory Board
 
-[**Gustau Camps-Valls**], Universitat de València (Spain), Machine learning for Earth and climate science
+[**Alexandra Jahn**](https://www.colorado.edu/instaar/alexandra-jahn), University of Colorado Boulder (USA), Arctic Ocean and sea-ice variability and modeling
 
+[**Gustau Camps-Valls**](https://www.uv.es/gcamps/), Universitat de València (Spain), Machine learning for Earth and climate science
+
+[**Carlos Pires**](https://idl.ciencias.ulisboa.pt/carlos-a-leitao-pires), Instituto Dom Luiz (Portugal), 
