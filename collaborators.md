@@ -18,7 +18,7 @@ permalink: /collaborators
 
 [**Torben Koenigk**](https://www.smhi.se/en/research/research-units/climate-research-at-the-rossby-centre/contact-us-at-the-rossby-centre/torben-koenigk), Swedish Meteorological and Hydrological Institute (Sweden), Global climate modeling (EC-Earth)
 
-[**Shengping He**](https://www4.uib.no/en/find-employees/Shengping.He), University of Bergen (Norway), Polar climate variability and prediction
+[**Shengping He**](https://www4.uib.no/en/find-employees/Shengping.He), University of Bergen (Norway), Polar climate variability and prediction (NorESM2)
 
 &ensp;
 
