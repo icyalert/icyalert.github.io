@@ -12,7 +12,7 @@ permalink: /team
 
 [**Shuting Yang**](http://research.dmi.dk/staff/all-staff/shuting/): contributes to WP1 and WP3-5 / Global climate system design using EC-Earth model (chair of EC-Earth consortium)
 
-[**Till S. Rasmussen**](http://research.dmi.dk/staff/all-staff/tar/): contributes to WP6 / Arctic shipping risk use case design using sea-ice forecast models
+[**Till S. Rasmussen**](http://research.dmi.dk/staff/all-staff/tar/): contributes to WP5-6 / Arctic shipping risk use case design using sea-ice forecast models
 
 [**Jian Su**](http://research.dmi.dk/staff/all-staff/jis/): contributes to WP6 / Flood risk assessment focused on the compound effects of storm surges using impact models
 
