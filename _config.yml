@@ -21,7 +21,7 @@
 title: IcyAlert
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Intelligent Climate Early Warning Alert for Arctic Ice-Free Summers, funded by the Novo Nordisk Foundation (NNF25OC0097271)
+  Intelligent Climate Early Warning Alert for Arctic Ice-Free Summers, funded by the Novo Nordisk Foundation (grant NNF25OC0097271)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
