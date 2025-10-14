@@ -6,7 +6,7 @@ permalink: /collaborators
 
 ### Collaborators
 
-[**Robert Jenssen**](https://en.uit.no/ansatte/person?p_document_id=41060), UiT The Arctic University of Norway (Norway) and University of Copenhagen (Denmark), Machine learning
+[**Robert Jenssen**](https://en.uit.no/ansatte/person?p_document_id=41060), UiT The Arctic University of Norway ([Visual Intelligence](https://www.visual-intelligence.no/), Machine learning) and University of Copenhagen ([Pioneer Centre for AI](https://www.aicentre.dk/))
 
 [**X. San Liang**](https://aos.fudan.edu.cn/44/ae/c14809a410798/page.htm), Fudan University & Southern Marine Laboratory (China), Information flow and causal analysis
 
