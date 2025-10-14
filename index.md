@@ -7,7 +7,7 @@ title: "IcyAlert"
 permalink: /
 ---
 
-**IcyAlert** (_Intelligent Climate Early Warning Alert for Arctic Ice-Free Summers_) is a research project funded by the Novo Nordisk Fundation ([NNF](https://novonordiskfonden.dk/en/news/challenge-accepted-new-funding-for-ambitious-projects-within-biomanufacturing-cardiometabolic-diseases-and-artificial-intelligence/)). It runs from October 2025 to September 2031.
+**IcyAlert** (_Intelligent Climate Early Warning Alert for Arctic Ice-Free Summers_) is a research project funded by the Novo Nordisk Fundation ([NNF](https://novonordiskfonden.dk/en/news/challenge-accepted-new-funding-for-ambitious-projects-within-biomanufacturing-cardiometabolic-diseases-and-artificial-intelligence/), grant NNF25OC0097271). It runs from October 2025 to September 2031.
 
 &ensp;
 
