@@ -20,6 +20,12 @@ permalink: /collaborators
 
 [**Shengping He**](https://www4.uib.no/en/find-employees/Shengping.He), University of Bergen (Norway), Polar climate variability and prediction (NorESM2)
 
+[**Martin Drews**](https://orbit.dtu.dk/en/persons/martin-drews), Technical University of Denmark, Regional climate modelling, climate extremes and climate risk management
+
+[**Elena Tomasi**](https://magazine.fbk.eu/en/spotlight/elena-tomasi/), Fondazione Bruno Kessler (Italy), Machine learning for weather and climate modeling
+
+[**Gabriele Franch**](https://magazine.fbk.eu/en/spotlight/gabriele-franch-2/), Fondazione Bruno Kessler (Italy), Machine learning for weather and climate modeling
+
 &ensp;
 
 ### Advisory Board
