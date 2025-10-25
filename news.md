@@ -4,7 +4,7 @@ title: "News"
 permalink: /news
 ---
 
-**21/10/2025:** The **IcyAlert kick-off meeting** took place at the Danish Meteorological Institute (DMI) in Copenhagen (Denmark), gathering all IcyAlert collaborators (see picture below). The event featured very interesting presentations about the project goals, NNF funding, [Gefion AI supercomputer](https://dcai.dk/gefion), all 3 partner institutes (DMI, DTU and RMI), Arctic sea ice, causal analysis and machine learning.
+**21/10/2025:** The **IcyAlert kick-off meeting** took place at the Danish Meteorological Institute (DMI) in Copenhagen (Denmark), gathering all IcyAlert collaborators (see picture below). The event featured very interesting presentations about the project goals, NNF funding, [Gefion AI supercomputer](https://dcai.dk/gefion), all 3 partner institutes (DMI, DTU and RMI), Arctic sea ice, causal analysis and machine learning. The meeting agenda can be found [HERE](https://drive.google.com/file/d/12tZ31OvsUeS6TqXwyMsvRhNABf0mHMmP/view?usp=drive_link).
 
 <p align="center">
   <img src="/images/IcyAlert_Kick-off_Picture.JPG" height="100%" width="100%">
