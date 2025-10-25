@@ -11,7 +11,7 @@ permalink: /
 
 &ensp;
 
-The project goal is to improve predictions of **Arctic ice-free summers** and its potential **climate impacts** at multi-decadal time scale using **global climate models**, **causal analysis** and **machine learning**.
+The project goal is to improve predictions of **Arctic ice-free summers** and its potential **climate impacts** at multi-seasonal time scale using **global climate models**, **causal analysis** and **machine learning**.
 
 &ensp;
 
