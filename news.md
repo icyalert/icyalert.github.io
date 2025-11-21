@@ -13,6 +13,7 @@ permalink: /news
 <p align="center">
   <img src="/images/IcyAlert_Kick-off_Picture.JPG" height="100%" width="100%">
 </p>
+_The IcyAlert team and collaborators at the kick-off meeting in Copenhagen, 21/10/2025_
 
 &ensp;
 
