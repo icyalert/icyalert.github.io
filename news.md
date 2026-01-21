@@ -4,7 +4,7 @@ title: "News"
 permalink: /news
 ---
 
-**19/11/2025: Job announcement:** DTU Compute (Denmark) is offering a **PhD scholarship** in cutting-edge **machine learning methods for climate modelling**, as part of the IcyAlert project. More information on how to apply can be found [HERE](https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/6317/?utm_medium=jobshare&utm_source=External+Job+Share) (application deadline: 8 December 2025).
+**19/11/2025: Job announcement:** DTU Compute (Denmark) is offering a **PhD scholarship** in cutting-edge **machine learning methods for climate modelling**, as part of the IcyAlert project (application deadline: 8 December 2025).
 
 &ensp;
 
