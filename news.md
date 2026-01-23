@@ -6,7 +6,7 @@ permalink: /news
 
 ## Upcoming events
 
-**29/01/2026: Seminar:** Cesar Aybar (PhD student supervised by Prof. Gustau Camp-Valls at the Image Processing Laboratory, University of Valencia, Spain) will give a talk on "TACO - Transparent Access to Cloud Optimized Datasets", a new way to organize Earth observation data. If you are interested to attend, please contact [Tommy S. Alstrøm](https://www.dtu.dk/english/person/tommy-sonne-alstroem?id=21803&entity=profile).
+**29/01/2026 (14:00 - 14:50): Seminar:** Cesar Aybar (PhD student supervised by Prof. Gustau Camp-Valls at the Image Processing Laboratory, University of Valencia, Spain) will give an online talk on "TACO - Transparent Access to Cloud Optimized Datasets", a new way to organize Earth observation data. If you are interested to attend, please contact [Tommy S. Alstrøm](https://www.dtu.dk/english/person/tommy-sonne-alstroem?id=21803&entity=profile).
 
 &ensp;
 
