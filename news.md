@@ -4,6 +4,14 @@ title: "News"
 permalink: /news
 ---
 
+## Upcoming events
+
+**29/01/2026: Seminar:** Cesar Aybar (PhD student supervised by Prof. Gustau Camp-Valls at the Image Processing Laboratory, University of Valencia, Spain) will give a talk on "TACO - Transparent Access to Cloud Optimized Datasets", a new way to organize earth observation data. If you are interested to attend, please contact [Tommy S. Alstrøm](https://www.dtu.dk/english/person/tommy-sonne-alstroem?id=21803&entity=profile).
+
+&ensp;
+
+## Past events and news
+
 **19/11/2025: Job announcement:** DTU Compute (Denmark) is offering a **PhD scholarship** in cutting-edge **machine learning methods for climate modelling**, as part of the IcyAlert project (application deadline: 8 December 2025).
 
 &ensp;
