@@ -10,6 +10,8 @@ permalink: /team
 
 [**Kristine S. Madsen**](http://research.dmi.dk/staff/all-staff/kma/): Project manager (WP7)
 
+[**Nishka Dasgupta**](https://research.dmi.dk/staff/all-staff/nid/): Research engineer (WP1)
+
 [**Shuting Yang**](http://research.dmi.dk/staff/all-staff/shuting/): contributes to WP1 and WP3-5 / Global climate system design using EC-Earth model (chair of EC-Earth consortium)
 
 [**Till S. Rasmussen**](http://research.dmi.dk/staff/all-staff/tar/): contributes to WP5-6 / Arctic shipping risk use case design using sea-ice forecast models
