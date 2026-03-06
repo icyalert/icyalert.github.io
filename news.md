@@ -6,6 +6,7 @@ permalink: /news
 
 ## Upcoming events and news
 
+**06/03/2026: Job announcement:** RMI (Belgium) is offering a **PhD student position** that will contribute to the **development of an early warning system for ice-free Arctic predictions and their climate impacts**, as part of the IcyAlert project (application deadline: 3 April 2026).
 
 &ensp;
 
