@@ -6,6 +6,8 @@ permalink: /news
 
 ## Upcoming events and news
 
+**08/06/2026:** The **Arctic AI workshop**.
+
 &ensp;
 
 ## Past events and news
