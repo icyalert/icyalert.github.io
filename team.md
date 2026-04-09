@@ -24,13 +24,15 @@ permalink: /team
 
 [**Stéphane Vannitsem**](https://climdyn.meteo.be/team/stephane-vannitsem): PI, leader of WP2 and WP5 / Causal methods, nonlinear dynamics, variability and predictability of climate
 
-[**David Docquier**](https://climdyn.meteo.be/team/david-docquier): Postdoc researcher / Causal analysis applied to sea ice - ocean - atmosphere interactions
+[**David Docquier**](https://climdyn.meteo.be/team/david-docquier): Postdoc researcher, involved in WP1-2 and WP4-6 / Causal analysis applied to sea ice - ocean - atmosphere interactions
 
 &ensp;
 
 <img src="/images/DTU_Logo.png" height="5%" width="5%"> Technical University of Denmark
 
 [**Tommy S. Alstrøm**](https://www.dtu.dk/english/person/tommy-sonne-alstroem?id=21803&entity=profile): PI, leader of WP3 and WP4 / Machine learning, High-performance computing
+
+[**Clara Edmonds**](https://orbit.dtu.dk/en/persons/clara-elisabeth-askgaard-edmonds/): PhD student, involved in WP1 and WP3 / Machine learning, Numerical modeling
 
 &ensp;
 
