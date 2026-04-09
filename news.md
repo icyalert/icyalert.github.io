@@ -12,7 +12,7 @@ permalink: /news
 
 ## Past events and news
 
-**09/04/2026: Welcome to Clara Edmonds** who is starting to work within the IcyAlert project as a PhD Student at DTU (Denmark).
+**09/04/2026: Welcome to Clara Edmonds** who is starting to work as a PhD Student at DTU (Denmark) within the IcyAlert project.
 
 &ensp;
 
