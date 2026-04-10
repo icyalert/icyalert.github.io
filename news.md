@@ -6,7 +6,7 @@ permalink: /news
 
 ## Upcoming events and news
 
-**08/06/2026:** IcyAlert and IceNet are co-organizing the **Arctic AI workshop** in Copenhagen (Denmark). More info [HERE](https://www.aicentre.dk/p1-programs/arctic-ai).
+**08/06/2026:** IcyAlert and [IceNet](https://icenet.ai/) are co-organizing the **Arctic AI workshop** in Copenhagen (Denmark). More info [HERE](https://www.aicentre.dk/p1-programs/arctic-ai).
 
 &ensp;
 
