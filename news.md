@@ -8,7 +8,7 @@ permalink: /news
 
 **08/06/2026:** IcyAlert and [IceNet](https://icenet.ai/) are co-organizing the **[Arctic AI workshop](https://www.aicentre.dk/p1-programs/arctic-ai)** in Copenhagen (Denmark).
 
-**09-11/06/2026:** IcyAlert members will be present at the [13th International Workshop on Sea Ice Modelling, Assimilation, Observations, Predictions, and Verification](https://iicwgda2026copenhagen.wordpress.com/) hosted by DMI (Copenhagen, Denmark).
+**09-11/06/2026:** IcyAlert members will be present at the **[13th International Workshop on Sea Ice Modelling, Assimilation, Observations, Predictions, and Verification]**(https://iicwgda2026copenhagen.wordpress.com/) hosted by DMI (Copenhagen, Denmark).
 
 &ensp;
 
