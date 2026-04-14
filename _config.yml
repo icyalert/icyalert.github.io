@@ -32,13 +32,6 @@ url: "https://icyalert.github.io/" # the base hostname & protocol for your site,
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-sass-converter
-
-# Custom CSS
-sass:
-  sass_dir: assets/css
-  style: compressed
-  main: assets/css/main.scss
 
 # Order pages
 header_pages:
