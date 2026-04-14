@@ -14,7 +14,7 @@ permalink: /news
 
 ## Past events and news
 
-**09/04/2026: Welcome to Clara Edmonds** who is starting to work as a PhD Student at DTU (Denmark) within the IcyAlert project.
+**09/04/2026: Welcome to Clara Edmonds** who is starting to work as a PhD Student at DTU (Denmark) within the IcyAlert project. She will work with generative AI models that can create high-resolution climate data based on low-resolution input, and support probabilistic ensemble initialization.
 
 &ensp;
 
