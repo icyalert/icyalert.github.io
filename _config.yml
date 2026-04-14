@@ -20,13 +20,13 @@
 
 title: IcyAlert
 author: Intelligent Climate Early Warning Alert for Arctic Ice-Free Summers
-email:
+# email:
 description: >- # this means to ignore newlines until "baseurl:"
   A project funded by the Novo Nordisk Foundation (grant NNF25OC0097271)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  
+url: "https://icyalert.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: 
+# github_username: icyalert 
 
 # Build settings
 theme: minima
