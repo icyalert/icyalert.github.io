@@ -21,14 +21,16 @@ IcyAlert is led by the Danish Meteorological Institute ([DMI](http://research.dm
 
 <p align="center">
   <img src="/images/NNF_logo.png" height="20%" width="20%">
-</p>  
-
-&ensp;
+</p> 
 
 <p align="center">
   <img src="/images/dmi_eng.png" height="40%" width="40%">
-  &ensp;
+</p> 
+
+<p align="center">
   <img src="/images/logo_rmicolor.png" height="5%" width="5%"> Royal Meteorological Institute of Belgium
-  &ensp;
+</p> 
+
+<p align="center">
   <img src="/images/DTU_Logo.png" height="5%" width="5%"> Technical University of Denmark
 </p>  
