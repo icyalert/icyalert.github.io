@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: <img src="/images/NNF_logo.png" height="70%" width="70%"> # IcyAlert
+title: <img src="/images/IcyAlert_Logo.png" height="30%" width="30%"> # IcyAlert
 author: Intelligent Climate Early Warning Alert for Arctic Ice-Free Summers
 # email:
 description: >- # this means to ignore newlines until "baseurl:"
