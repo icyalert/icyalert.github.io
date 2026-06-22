@@ -6,13 +6,17 @@ permalink: /news
 
 ## Upcoming events and news
 
-**08/06/2026:** IcyAlert and [IceNet](https://icenet.ai/) are co-organizing the **[Arctic AI workshop](https://p1-arctic-ai.github.io/)** in Copenhagen (Denmark).
-
-**09-11/06/2026:** IcyAlert members will be present at the **[13th International Workshop on Sea Ice Modelling, Assimilation, Observations, Predictions, and Verification](https://iicwgda2026copenhagen.wordpress.com/)** hosted by DMI (Copenhagen, Denmark).
-
 &ensp;
 
 ## Past events and news
+
+**09-11/06/2026:** IcyAlert members were present at the **[13th International Workshop on Sea Ice Modelling, Assimilation, Observations, Predictions, and Verification](https://iicwgda2026copenhagen.wordpress.com/)** hosted by DMI (Copenhagen, Denmark).
+
+&ensp;
+
+**08/06/2026:** IcyAlert and [IceNet](https://icenet.ai/) co-organized the **[Arctic AI workshop](https://p1-arctic-ai.github.io/)** in Copenhagen (Denmark).
+
+&ensp;
 
 **09/04/2026: Welcome to Clara Edmonds** who is starting to work as a PhD Student at DTU (Denmark) within the IcyAlert project. She will work with generative AI models that can create high-resolution climate data based on low-resolution input, and support probabilistic ensemble initialization.
 
