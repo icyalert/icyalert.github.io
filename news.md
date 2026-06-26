@@ -6,6 +6,8 @@ permalink: /news
 
 ## Upcoming events and news
 
+**26/06/2026: Job announcement:** DTU Compute (Denmark) is offering a **PhD scholarship** in **causal-informed machine learning methods for climate modelling**, as part of the IcyAlert project (application deadline: 9 August 2026).
+
 &ensp;
 
 ## Past events and news
