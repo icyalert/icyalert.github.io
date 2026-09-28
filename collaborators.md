@@ -28,7 +28,7 @@ permalink: /collaborators
 
 &ensp;
 
-### Advisory Board
+### Scientific Advisory Board (SAB)
 
 [**Alexandra Jahn**](https://www.colorado.edu/instaar/alexandra-jahn), University of Colorado Boulder (USA), Arctic Ocean and sea-ice variability and modeling
 
