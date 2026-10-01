@@ -6,6 +6,8 @@ permalink: /news
 
 ## Upcoming events and news
 
+**30/09/2026: Job announcement:** DMI (Denmark) is offering a **postdoc position** in **Arctic Sea-Ice and Initialised Climate Prediction**, as part of the IcyAlert project (application deadline: 18 October 2026). More info on how to apply [HERE](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=3010&ProjectId=170149&DepartmentId=19134&MediaId=5).
+
 &ensp;
 
 ## Past events and news
