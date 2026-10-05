@@ -26,6 +26,8 @@ permalink: /team
 
 [**David Docquier**](https://climdyn.meteo.be/team/david-docquier): Postdoc researcher, involved in WP1-2 and WP4-6 / Causal analysis applied to sea ice - ocean - atmosphere interactions
 
+[**Emma Zirkel**]: PhD student, involved in WP3 and WP4 / Machine learning and causal methods applied to polar regions
+
 &ensp;
 
 <img src="/images/DTU_Logo.png" height="5%" width="5%"> Technical University of Denmark
