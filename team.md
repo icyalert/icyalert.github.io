@@ -34,7 +34,7 @@ permalink: /team
 
 <img src="/images/DTU_Logo.png" height="5%" width="5%"> Technical University of Denmark
 
-[**Tommy S. Alstrøm**](https://www.dtu.dk/english/person/tommy-sonne-alstroem?id=21803&entity=profile): PI, leader of WP3 and WP4 / Machine learning, High-performance computing
+[**Tommy S. Alstrøm**](https://orbit.dtu.dk/en/persons/tommy-sonne-alstr%C3%B8m/): PI, leader of WP3 and WP4 / Machine learning, High-performance computing
 
 [**Clara Edmonds**](https://orbit.dtu.dk/en/persons/clara-elisabeth-askgaard-edmonds/): PhD student, involved in WP1 and WP3 / Machine learning, Numerical modeling
 
