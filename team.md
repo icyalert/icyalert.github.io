@@ -16,7 +16,7 @@ permalink: /team
 
 **Shuting Yang**: contributes to WP1 and WP3-5 / Global climate system design using EC-Earth model (chair of EC-Earth consortium)
 
-[**Till S. Rasmussen**](https://www.dmi.dk/research/portfolio?memberid=tar): contributes to WP5-6 / Arctic shipping risk use case design using sea-ice forecast models
+[**Till A. S. Rasmussen**](https://www.dmi.dk/research/portfolio?memberid=tar): contributes to WP5-6 / Arctic shipping risk use case design using sea-ice forecast models
 
 [**Jian Su**](https://www.dmi.dk/research/portfolio?memberid=jis): contributes to WP6 / Flood risk assessment focused on the compound effects of storm surges using impact models
 
@@ -36,7 +36,7 @@ permalink: /team
 
 [**Tommy S. Alstrøm**](https://orbit.dtu.dk/en/persons/tommy-sonne-alstr%C3%B8m/): PI, leader of WP3 and WP4 / Machine learning, High-performance computing
 
-[**Clara Edmonds**](https://orbit.dtu.dk/en/persons/clara-elisabeth-askgaard-edmonds/): PhD student, involved in WP1 and WP3 / Machine learning, Numerical modeling
+[**Clara E. A. Edmonds**](https://orbit.dtu.dk/en/persons/clara-elisabeth-askgaard-edmonds/): PhD student, involved in WP1 and WP3 / Machine learning, Numerical modeling
 
 &ensp;
 
