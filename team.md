@@ -6,17 +6,19 @@ permalink: /team
 
 <img src="images/dmi_eng.png" height="40%" width="40%">
 
-[**Tian Tian**](http://research.dmi.dk/staff/all-staff/tian/): Project leader and PI, leader of WP1, WP6 and WP7 / Decadal climate predictions, Sea ice modeling and observations, CMIP6 model evaluation
+[**Tian Tian**](https://www.dmi.dk/research/portfolio?memberid=tian): Project leader and PI, leader of WP1, WP6 and WP7 / Decadal climate predictions, Sea ice modeling and observations, CMIP6 model evaluation
 
-[**Kristine S. Madsen**](http://research.dmi.dk/staff/all-staff/kma/): Project manager (WP7)
+[**Kristine S. Madsen**](https://www.dmi.dk/research/portfolio?memberid=kma): Project manager (WP7)
 
-[**Nishka Dasgupta**](https://research.dmi.dk/staff/all-staff/nid/): Research engineer (WP1)
+**Jens C. Bjerking**: Project manager (WP7)
 
-[**Shuting Yang**](http://research.dmi.dk/staff/all-staff/shuting/): contributes to WP1 and WP3-5 / Global climate system design using EC-Earth model (chair of EC-Earth consortium)
+[**Nishka Dasgupta**](https://www.dmi.dk/research/portfolio?memberid=nid): Research engineer (WP1)
 
-[**Till S. Rasmussen**](http://research.dmi.dk/staff/all-staff/tar/): contributes to WP5-6 / Arctic shipping risk use case design using sea-ice forecast models
+**Shuting Yang**: contributes to WP1 and WP3-5 / Global climate system design using EC-Earth model (chair of EC-Earth consortium)
 
-[**Jian Su**](http://research.dmi.dk/staff/all-staff/jis/): contributes to WP6 / Flood risk assessment focused on the compound effects of storm surges using impact models
+[**Till S. Rasmussen**](https://www.dmi.dk/research/portfolio?memberid=tar): contributes to WP5-6 / Arctic shipping risk use case design using sea-ice forecast models
+
+[**Jian Su**](https://www.dmi.dk/research/portfolio?memberid=jis): contributes to WP6 / Flood risk assessment focused on the compound effects of storm surges using impact models
 
 &ensp;
 
