@@ -14,11 +14,11 @@ permalink: /team
 
 [**Nishka Dasgupta**](https://www.dmi.dk/research/portfolio?memberid=nid): Research engineer (WP1)
 
-**Shuting Yang**: contributes to WP1 and WP3-5 / Global climate system design using EC-Earth model (chair of EC-Earth consortium)
+**Shuting Yang**: Senior researcher, contributes to WP1 and WP3-5 / Global climate system design using EC-Earth model (chair of EC-Earth consortium)
 
-[**Till A. S. Rasmussen**](https://www.dmi.dk/research/portfolio?memberid=tar): contributes to WP5-6 / Arctic shipping risk use case design using sea-ice forecast models
+[**Till A. S. Rasmussen**](https://www.dmi.dk/research/portfolio?memberid=tar): Senior researcher, contributes to WP5-6 / Arctic shipping risk use case design using sea-ice forecast models
 
-[**Jian Su**](https://www.dmi.dk/research/portfolio?memberid=jis): contributes to WP6 / Flood risk assessment focused on the compound effects of storm surges using impact models
+[**Jian Su**](https://www.dmi.dk/research/portfolio?memberid=jis): Senior researcher, contributes to WP6 / Flood risk assessment focused on the compound effects of storm surges using impact models
 
 &ensp;
 
