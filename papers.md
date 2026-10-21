@@ -4,7 +4,7 @@ title: "Papers"
 permalink: /papers
 ---
 
-## Peer-reviewed publications
+Below is a list of peer-reviewed papers directly and indirectly linked to the IcyAlert project. Project members are highlighted in bold font.
 
 ### Directly linked to IcyAlert:
 To come
