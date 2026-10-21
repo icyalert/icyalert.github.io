@@ -24,7 +24,7 @@ permalink: /team
 
 <img src="/images/logo_rmicolor.png" height="5%" width="5%"> Royal Meteorological Institute of Belgium
 
-[**Stéphane Vannitsem**](https://climdyn.meteo.be/team/stephane-vannitsem): PI, leader of WP2 and WP5 / Causal methods, nonlinear dynamics, variability and predictability of climate
+[**Stéphane Vannitsem**](https://climdyn.meteo.be/team/stephane-vannitsem): Co-PI, leader of WP2 and WP5 / Causal methods, nonlinear dynamics, variability and predictability of climate
 
 [**David Docquier**](https://climdyn.meteo.be/team/david-docquier): Postdoc researcher, involved in WP1-2 and WP4-6 / Causal analysis applied to sea ice - ocean - atmosphere interactions
 
@@ -34,7 +34,7 @@ permalink: /team
 
 <img src="/images/DTU_Logo.png" height="5%" width="5%"> Technical University of Denmark
 
-[**Tommy S. Alstrøm**](https://orbit.dtu.dk/en/persons/tommy-sonne-alstr%C3%B8m/): PI, leader of WP3 and WP4 / Machine learning, High-performance computing
+[**Tommy S. Alstrøm**](https://orbit.dtu.dk/en/persons/tommy-sonne-alstr%C3%B8m/): Co-PI, leader of WP3 and WP4 / Machine learning, High-performance computing
 
 [**Clara E. A. Edmonds**](https://orbit.dtu.dk/en/persons/clara-elisabeth-askgaard-edmonds/): PhD student, involved in WP1 and WP3 / Machine learning, Numerical modeling
 
