@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Papers"
+title: "Peer-reviewed papers"
 permalink: /papers
 ---
 
