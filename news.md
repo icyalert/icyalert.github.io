@@ -6,7 +6,7 @@ permalink: /news
 
 ## Upcoming events and news
 
-
+&ensp;
 
 ## Past events and news
 
