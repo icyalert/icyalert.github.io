@@ -6,15 +6,17 @@ permalink: /news
 
 ## Upcoming events and news
 
-**30/09/2026: Job announcement:** DMI (Denmark) is offering a **postdoc position** in **Arctic Sea-Ice and Initialised Climate Prediction**, as part of the IcyAlert project (application deadline: 18 October 2026). More info on how to apply [HERE](https://candidate.hr-manager.net/ApplicationInit.aspx?cid=3010&ProjectId=170149&DepartmentId=19134&MediaId=5).
 
-&ensp;
+
+## Past events and news
 
 **01/10/2026: Welcome to Emma Zirkel** who is starting to work as a PhD Student at RMI (Belgium) within the IcyAlert project. She will work on dynamical predictions of summer Arctic sea ice using climate models, observations / reanalyses, causal methods and machine learning.
 
 &ensp;
 
-## Past events and news
+**30/09/2026: Job announcement:** DMI (Denmark) is offering a **postdoc position** in **Arctic Sea-Ice and Initialised Climate Prediction**, as part of the IcyAlert project (application deadline: 18 October 2026).
+
+&ensp;
 
 **26/06/2026: Job announcement:** DTU Compute (Denmark) is offering a **PhD scholarship** in **causal-informed machine learning methods for climate modelling**, as part of the IcyAlert project (application deadline: 9 August 2026).
 
