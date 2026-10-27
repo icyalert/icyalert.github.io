@@ -28,7 +28,7 @@ IcyAlert is led by the Danish Meteorological Institute ([DMI](http://research.dm
 </p> 
 
 <p align="center">
-  <img src="/images/dmi_eng.png" height="45%" width="45%">
+  <img src="/images/DMI_H_C_EN_RGB@3x.png" height="45%" width="45%">
 </p> 
 
 <p align="center">
