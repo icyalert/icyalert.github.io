@@ -4,7 +4,7 @@ title: "Team"
 permalink: /team
 ---
 
-<img src="images/dmi_eng.png" height="40%" width="40%">
+<img src="images/DMI_H_C_EN_RGB@3x.png" height="40%" width="40%">
 
 [**Tian Tian**](https://www.dmi.dk/research/portfolio?memberid=tian): Project leader and PI, leader of WP1, WP6 and WP7 / Decadal climate predictions, Sea ice modeling and observations, CMIP6 model evaluation
 
