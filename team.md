@@ -18,7 +18,7 @@ permalink: /team
 
 [**Till A. S. Rasmussen**](https://www.dmi.dk/research/portfolio?memberid=tar): Senior researcher, contributes to WP5-6 / Arctic shipping risk use case design using sea-ice forecast models
 
-[**Jian Su**](https://www.dmi.dk/research/portfolio?memberid=jis): Senior researcher, contributes to WP6 / Flood risk assessment focused on the compound effects of storm surges using impact models
+[**Jian Su**](https://www.dmi.dk/research/portfolio?memberid=jis): Senior researcher, contributes to WP5-6 / Flood risk assessment focused on the compound effects of storm surges using impact models
 
 &ensp;
 
@@ -28,7 +28,7 @@ permalink: /team
 
 [**David Docquier**](https://climdyn.meteo.be/team/david-docquier): Postdoc researcher, involved in WP1-2 and WP4-6 / Causal analysis applied to sea ice - ocean - atmosphere interactions
 
-**Emma Zirkel**: PhD student, involved in WP3 and WP4 / Machine learning and causal methods applied to polar regions
+**Emma Zirkel**: PhD student, involved in WP3-5 / Machine learning and causal methods applied to polar regions
 
 &ensp;
 
