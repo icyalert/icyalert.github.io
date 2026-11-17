@@ -6,7 +6,7 @@ permalink: /news
 
 ## Upcoming events and news
 
-**16/11/2026:** Stéphane Vannitsem has received the Lewis Fry Richardson Medal from the European Geosciences Union (EGU) for his contribution to nonlinear geosciences and, in particular, to atmospheric dynamics, predictability and the application of dynamical systems theory to weather and climate. More information about the EGU medalists: [https://www.egu.eu/news/1974/egu-announces-the-2027-awards-and-medals/](https://www.egu.eu/news/1974/egu-announces-the-2027-awards-and-medals/).
+**16/11/2026:** **Stéphane Vannitsem** has received the **Lewis Fry Richardson Medal** from the European Geosciences Union (EGU) for his contribution to nonlinear geosciences and, in particular, to atmospheric dynamics, predictability and the application of dynamical systems theory to weather and climate. More information about the EGU medalists: [https://www.egu.eu/news/1974/egu-announces-the-2027-awards-and-medals/](https://www.egu.eu/news/1974/egu-announces-the-2027-awards-and-medals/).
 
 **28/10/2026:** David Docquier and Tian Tian are convening a session at the EGU General Assembly 2027 (4-9 April 2027) together with Pasha Karami, Patricia DeRepentigny and Yiguo Wang. This session is entitled **CR3.3: Causal understanding and predictability of the emerging Arctic sea-ice regime**. More information about the session: [https://meetingorganizer.copernicus.org/EGU27/session/61420](https://meetingorganizer.copernicus.org/EGU27/session/61420). Abstract submission deadline: 12 January 2027, 13:00 CET.
 
